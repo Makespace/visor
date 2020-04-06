@@ -1,0 +1,294 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$EXTMAX
+ 10
+387.773223876953
+ 20
+257.756652832031
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+57.5732269287109
+ 20
+29.1566581726074
+ 30
+0.0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$MEASUREMENT
+ 70
+     1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+ 70
+     1
+  0
+LAYER
+  2
+0
+ 70
+     0
+ 62
+    70
+  6
+Continuous
+  0
+LAYER
+  2
+Open-Source-Face-Shield-Drawing
+ 70
+     0
+ 62
+    70
+  6
+Continuous
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+ 70
+     1
+  0
+APPID
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+Open-Source-Face-Shield-Drawing
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+311.4628
+ 20
+29.156659
+ 42
+0.0
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+133.877646
+ 20
+29.156659
+ 42
+-0.0488592315362
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+118.987614900912
+ 20
+30.6087056838208
+ 42
+-0.0867084564483
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+94.6448692825477
+ 20
+40.0018231329636
+ 42
+-0.1289383917964
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+67.4757567881211
+ 20
+67.8421787188315
+ 42
+-0.0648810566818
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+60.0754813080101
+ 20
+86.0069630060237
+ 42
+-0.0323278291712
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+58.1976806721113
+ 20
+95.6534028196499
+ 42
+-0.0317913385011
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+57.573226
+ 20
+105.46108
+ 42
+0.0
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+57.573226
+ 20
+254.57742
+ 42
+-0.4142600355882
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+60.752459
+ 20
+257.756654
+ 42
+0.0
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+384.593985
+ 20
+257.756654
+ 42
+-0.4142186693739
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+387.773218
+ 20
+254.57742
+ 42
+0.0
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+387.773218
+ 20
+105.467077
+ 42
+-0.0488532874198
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+386.321060070131
+ 20
+90.5758864669635
+ 42
+-0.0867055085887
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+376.927164050907
+ 20
+66.2311326601597
+ 42
+-0.1289351492676
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+349.084681403762
+ 20
+39.0599564645589
+ 42
+-0.064874013047
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+330.918478464512
+ 20
+31.6591091855133
+ 42
+-0.0323183473868
+  0
+VERTEX
+  8
+Open-Source-Face-Shield-Drawing
+ 10
+321.271270405472
+ 20
+29.7811624360893
+ 42
+-0.0317806441786
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
